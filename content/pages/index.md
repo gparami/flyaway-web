@@ -463,7 +463,7 @@ sections:
         type: FeaturedItem
       - title: '"Best and first flight simulator in Sri Lanka for beginners"'
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Thivaharan Radhakishnan, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
