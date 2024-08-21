@@ -409,7 +409,7 @@ sections:
           locally, and the creativity behind it is truly impressive. Highly
           recommended!”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Anuradha Wishmantha, IFS'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
