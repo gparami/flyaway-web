@@ -433,8 +433,10 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Ive flown PC based simulators for over 25 years since my childhood. I
+          am an Airline pilot who has flown Cessna Aircraft during my training
+          and this indeed is quite realistic to the actual aircraft. I relished
+          flying one of these after many decades."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
