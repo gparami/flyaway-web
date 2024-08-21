@@ -148,7 +148,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Tips for a perfect takeoff
       color: text-primary
       styles:
         self:
