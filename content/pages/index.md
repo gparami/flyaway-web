@@ -464,10 +464,8 @@ sections:
       - title: '"Best and first flight simulator in Sri Lanka for beginners"'
         tagline: Testimonial 3
         subtitle: 'Thivaharan Radhakishnan, Qatar Airways'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          https\://maps.app.goo.gl/t8cPBkDiAbXdk1qTA
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
