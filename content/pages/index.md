@@ -404,8 +404,10 @@ sections:
     subtitle: What our students say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “I recently visited a unique training academy and I was blown away!
+          This place features a realistic Cesna flight simulator designed
+          locally, and the creativity behind it is truly impressive. Highly
+          recommended!”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
