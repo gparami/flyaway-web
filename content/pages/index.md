@@ -7,7 +7,7 @@ sections:
       text: Sri Lanka's First General Aviation Simulator Center.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
       Providing cost-effective C152/172 integrated courses for PPL, IR & CPL
       students.
