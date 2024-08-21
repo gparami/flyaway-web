@@ -169,7 +169,7 @@ sections:
         textAlign: center
   - subtitle: Fly with us on...
     images:
-      - url: /images/cessna.svg
+      - url: /images/contenful-logo.svg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
