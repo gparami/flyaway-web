@@ -401,7 +401,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our students say about us
+    subtitle: What our pilots say about us
     items:
       - title: >-
           “I recently visited a unique training academy and I was blown away!
