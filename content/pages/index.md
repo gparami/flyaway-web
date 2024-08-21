@@ -438,7 +438,7 @@ sections:
           and this indeed is quite realistic to the actual aircraft. I relished
           flying one of these after many decades."
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: 'Rajiv Warren Soysa, SriLankan Airlines'
         text: ''
         image:
           url: /images/person-placeholder-light.png
