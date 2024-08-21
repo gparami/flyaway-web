@@ -408,7 +408,7 @@ sections:
           This place features a realistic Cesna flight simulator designed
           locally, and the creativity behind it is truly impressive. Highly
           recommended!”
-        tagline: Testimonial 1
+        tagline: '2024-08-21'
         subtitle: 'Anuradha Wishmantha, IFS'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
