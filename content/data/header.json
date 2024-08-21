@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Programs",
-            "url": "/pricing",
+            "url": "/programs",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
