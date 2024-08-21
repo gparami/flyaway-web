@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: SIM Benefits
+      text: Simulator Benefits
       color: text-dark
       styles:
         self:
